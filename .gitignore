@@ -1,0 +1,7 @@
+bin/
+gen/
+libs/armeabi/
+obj/
+local.properties
+jni/base/shaders/.DS_Store
+project.sublime-workspace
